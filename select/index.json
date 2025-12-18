@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Sparklers",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-18T07:24:41.465918Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_Sparklers_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Tiny Ruins",
+      "has_synced": false,
+      "path": "select/02_Sparklers_Tiny_Ruins.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Buffalo Tom",
+      "has_synced": false,
+      "path": "select/03_Sparklers_Buffalo_Tom.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Carbon Leaf",
+      "has_synced": true,
+      "path": "select/04_Sparklers_Carbon_Leaf.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Gemini Club",
+      "has_synced": true,
+      "path": "select/05_Sparklers_Gemini_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Gemini Club",
+      "has_synced": true,
+      "path": "select/06_Sparklers_Gemini_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparklers (ヤマトファンタジアver.)",
+      "artist": "百鬼あやめ , 大神ミオ",
+      "has_synced": true,
+      "path": "select/07_Sparklers_(ヤマトファンタジアver.)_百鬼あやめ_,_大神ミオ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sparklers (Radio Edit)",
+      "artist": "Gemini Club",
+      "has_synced": true,
+      "path": "select/08_Sparklers_(Radio_Edit)_Gemini_Club.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sparklers (ヤマトファンタジアver.)",
+      "artist": "百鬼あやめ",
+      "has_synced": true,
+      "path": "select/09_Sparklers_(ヤマトファンタジアver.)_百鬼あやめ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sparklers In The Rain",
+      "artist": "The Chairs",
+      "has_synced": true,
+      "path": "select/10_Sparklers_In_The_Rain_The_Chairs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sparklers In The Rain",
+      "artist": "Chairs, The",
+      "has_synced": true,
+      "path": "select/11_Sparklers_In_The_Rain_Chairs,_The.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Gemini Club",
+      "has_synced": true,
+      "path": "select/12_Sparklers_Gemini_Club.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Rocky Votolato",
+      "has_synced": false,
+      "path": "select/13_Sparklers_Rocky_Votolato.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sparklers",
+      "artist": "Penthouse",
+      "has_synced": true,
+      "path": "select/14_Sparklers_Penthouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sparklers",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_Sparklers_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
